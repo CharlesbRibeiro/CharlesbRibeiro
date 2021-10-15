@@ -1,6 +1,6 @@
 ### Hi there 👋, Charles Barros
 #### statistician and Data scientist
-![statistician and Data scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![statistician and Data scientist]
 
 I'm Charles from Brazil, and I work with data analysis and study subjects like Statistics, Programming and Data Science.
 
