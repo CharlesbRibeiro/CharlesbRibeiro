@@ -2,7 +2,7 @@
 
 - I'm Charles and I work with data analysis and study subjects like Statistics:chart_with_upwards_trend:, Programming👨🏼‍💻 and Data Science:bar_chart:.
 
-- I’m From: São Paulo, Brazi  📍
+- I’m From: São Paulo, Brazil  📍
 
 - I'm a statistician :chart_with_upwards_trend:
 
