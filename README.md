@@ -20,8 +20,8 @@
 
 I have professional experience in data analysis and development of tools for automating data collection and analysis through programming languages such as Visual Basic for Applications (VBA) or using the R programming language to perform analyses.Tenho experiência profissional na análise de dados e desenvolvimento de ferramentas para automatização de coleta e análise de dados através de linguagens de programação como Visual Basic for Applications (VBA) ou utilizando a linguagem de programação R para a realização de análises.
 
-- 🔭 I’m currently working on I'm currently working on analyzing databases applying programming and statistical knowledge. 
-- 🌱 I’m currently learning I'm currently learning and improving knowledge in programming, data modeling and statistics. 
+- 🔭 I’m currently working on analyzing databases applying programming and statistical knowledge. 
+- 🌱 I'm currently learning and improving my knowledge in programming, data modeling and statistics. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CharlesbRibeiro)  
