@@ -18,7 +18,10 @@
 
 ## Experience :briefcase::computer:
 
-I have professional experience in data analysis and development of tools for automating data collection and analysis through programming languages such as Visual Basic for Applications (VBA) or using the R programming language to perform analyses.Tenho experiência profissional na análise de dados e desenvolvimento de ferramentas para automatização de coleta e análise de dados através de linguagens de programação como Visual Basic for Applications (VBA) ou utilizando a linguagem de programação R para a realização de análises.
+I have professional experience in data analysis and development of data collection automation tools through the programming language Visual Basic for Applications (VBA) or using the R programming language to perform analysis.
+
+
+
 
 - 🔭 I’m currently working on analyzing databases applying programming and statistical knowledge. 
 - 🌱 I'm currently learning and improving my knowledge in programming, data modeling and statistics. 
