@@ -15,6 +15,7 @@
 * R 
 * VBA (Visual Basic for Applications)
 * SQL
+* Python
 
 ## Experience :briefcase::computer:
 
