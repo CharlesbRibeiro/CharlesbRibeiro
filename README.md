@@ -1,34 +1,38 @@
-# Charles Barros
+### Hi there 👋
+### Hello, My name is Charles, I am Statistician and Data scientist! 👋
 
-- I'm Charles and I work with data analysis and study subjects like Statistics:chart_with_upwards_trend:, Programming👨🏼‍💻 and Data Science:bar_chart:.
+## I’m From: São Paulo, Brazil 📍
 
-- I’m From: São Paulo, Brazil  📍
-
-- I'm a statistician :chart_with_upwards_trend:
-
-
-
-
-
-## Skills :wrench: 
-
-* R 
-* VBA (Visual Basic for Applications)
-* SQL
-* Python
-
-## Experience :briefcase::computer:
-
-I have professional experience in data analysis and development of data collection automation tools through the programming language Visual Basic for Applications (VBA) or using the R programming language to perform analysis.
+## 😀💻 Who is me:
+<div>
+  <p>
+    I am a Statistician by training, with professional experience in data analysis. I have great interests in data related topics (Data Engineering, Data Science, Database and Data Modeling), Machine Learning (Neural Networks, Deep Learning, Classification and Prediction). I have proficiency in Python (PyCharm, Jupyter and Spyder), VBA, R (Rstudio) and SQL (SQL Server, MySQL).
+    
+    
+  </p>
+</div>
 
 
+## 👨‍💻🚀 My technologies  
 
+<div style="display: inline_block">
+  <img align="center" alt="MYSQL" height="150" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="SQLServer Core" height="150" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="Python" height="150" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="R" height="150" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+</div><br>
 
-- 🔭 I’m currently working on analyzing databases applying programming and statistical knowledge. 
-- 🌱 I'm currently learning and improving my knowledge in programming, data modeling and statistics. 
+- 📧 How to contact me:: charles.b.ribeiro@gmail.com
 
+## 📚👨‍🎓 Courses and Graduation
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CharlesbRibeiro)  
+Description   | Institution   | Year | Type
+--------- | --------- | ------ | ------
+⭐Data Science |FIAP | 09/2022 until the moment | MBA -Master of Business Administration 
+⭐Statistic | United Metropolitan Colleges University Center | 01.2018 - 12.2021 | Bacharel Degree
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/charles-barros-ribeiro-128706170//)  
+## 🌐 My Social Media
 
+<div> 
+  <a href="https://www.linkedin.com/in/charles-barros-ribeiro/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
